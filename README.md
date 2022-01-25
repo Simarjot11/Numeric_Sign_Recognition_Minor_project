@@ -1,2 +1,2 @@
 # Numeric_Sign_Recognition_Minor_project
-Minor Project
+Minor Project under Dr. Rajinder Sandhu
